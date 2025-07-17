@@ -1,0 +1,3 @@
+[submodule "lib/rslib"]
+	path = lib/rslib
+	url = git@github.com:holyfata/rslib.git
